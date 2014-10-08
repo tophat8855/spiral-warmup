@@ -1,6 +1,6 @@
 # Spirals
 
-Your mission, should you choose to accept it, is to create a grid of numbers in a spiral
+Your mission is to create a grid of numbers in a spiral
 pattern.  Your program should take two arguments:
 
 * A starting number
